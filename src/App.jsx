@@ -2,7 +2,7 @@
 import style from './App.module.css'
 import { About } from './components/About/About'
 import { Experience } from './components/Experience/Experience'
-import { Hero } from './components/Hero/hero'
+import { Hero } from './components/Hero/Hero'
 import { Navbar } from './components/Navbar/Navbar'
 import { Projects } from './components/projects/Projects'
 import { Contact} from './components/Contact/contact'
