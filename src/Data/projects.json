@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Portfolio",
+      "imageSrc": "../../assets/projects/Portfolio.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/its-Anmol-Sharma/Projects/tree/main/REACT_Portfolio/My-Portfolio"
+    },
+    {
+      "title": "Shoes Store Website",
+      "imageSrc": "../../../assets/projects/ShoesWebsite.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/its-Anmol-Sharma/Projects/tree/main/SHOES_WEBSITE"
+    },
+    {
+      "title": "Calculator & Todo List",
+      "imageSrc": "../../../assets/projects/TicTacToe.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/its-Anmol-Sharma/Projects/tree/main/Tic-tac-game"
+    }
+  ]
