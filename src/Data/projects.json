@@ -1,7 +1,7 @@
 [
     {
       "title": "Portfolio",
-      "imageSrc": "../../assets/projects/Portfolio.png",
+      "imageSrc": "/assets/projects/Portfolio.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
@@ -9,7 +9,7 @@
     },
     {
       "title": "Shoes Store Website",
-      "imageSrc": "../../../assets/projects/ShoesWebsite.png",
+      "imageSrc": "/assets/projects/ShoesWebsite.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node", "Sass"],
       "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
     },
     {
       "title": "Calculator & Todo List",
-      "imageSrc": "../../../assets/projects/TicTacToe.png",
+      "imageSrc": "/assets/projects/TicTacToe.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
