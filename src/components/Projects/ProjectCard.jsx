@@ -23,12 +23,8 @@ export const ProjectCard = ({project : {title,imageSrc,description,skills,demo,s
              {/* < source/> */}
              {/* <a href={source} > < source/> </a> */}
             <a href={source} target="_blank"> <Source/> </a>
-        </div>
-      
-       
+        </div> 
     </div>
-
-         
   ); 
 }
   

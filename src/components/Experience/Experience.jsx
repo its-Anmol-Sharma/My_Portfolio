@@ -38,10 +38,7 @@ export const Experience = () => {
                             </li>);
                         })
                     }
-
-
                 </ul>
-
         </div>
     </section>
   )

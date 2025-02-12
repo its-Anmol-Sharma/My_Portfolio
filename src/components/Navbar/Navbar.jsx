@@ -7,8 +7,6 @@ import styles from './Navbar.module.css';
 export const Navbar = () => {
   const [ menuOpen, setMenuOpen] = useState(false);
   // useState - Because we need to keep track of wheater the Hamburger Menu is Open or not 
-  
-
   return(
     <nav className={styles.navbar}>
       <a className={styles.title} href="/"> <img src= {logo} alt="" /> </a>
@@ -25,7 +23,6 @@ export const Navbar = () => {
             <li><a href="#experience">Experience</a></li>        
             <li><a href="#projects">Project</a></li>
             <li><a href="#Contact">Contact</a></li>
-        
           </ul>
       </div>
     </nav>
