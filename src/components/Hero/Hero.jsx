@@ -1,7 +1,7 @@
 import React from 'react'
 
 import styles from "./Hero.module.css"
-import AboutImg from "../../../assets/about/aboutImage.png";
+import AboutImg from "/assets/about/aboutImage.png";
 import GetButton from './GetButton';
 import Button from './downloadBtn';
 

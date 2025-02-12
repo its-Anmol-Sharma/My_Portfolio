@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import open from "../../../assets/nav/menuIcon.png";
-import close from "../../../assets/nav/closeIcon.png";
-import logo from "../../../assets/logo/Portfolio-logo.png"
+import open from "/assets/nav/menuIcon.png";
+import close from "/assets/nav/closeIcon.png";
+import logo from "/assets/logo/Portfolio-logo.png"
 import styles from './Navbar.module.css';
 
 export const Navbar = () => {

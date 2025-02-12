@@ -1,9 +1,9 @@
 import React from 'react';
 import style from "./About.module.css";
-import AboutImg from "../../../assets/about/aboutImage.png";
-import cursor from "../../../assets/about/cursorIcon.png";
-import uil from "../../../assets/about/uiIcon.png";
-import server from "../../../assets/about/serverIcon.png";
+import AboutImg from "/assets/about/aboutImage.png";
+import cursor from "/assets/about/cursorIcon.png";
+import uil from "/assets/about/uiIcon.png";
+import server from "/assets/about/serverIcon.png";
 
 export const  About= () => {
   return (
